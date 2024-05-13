@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Add button to download current chat, including branches. Add buttons to embed code snippets in floating frames.
-// @author       ittixen
+// @author       ben7sys
 // @match        https://chatgpt.com/c/*
 // @icon         https://chat.openai.com/favicon-32x32.png
 // @grant        none
